@@ -1,0 +1,6 @@
+python-dotenv
+langchain
+# langchain-openai
+mcp-use
+# ollama-python
+langchain-ollama
